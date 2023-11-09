@@ -1,2 +1,2 @@
 todo.md
--[] Dar merge no código
+-[ ] Dar merge no código
