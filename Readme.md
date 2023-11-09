@@ -12,10 +12,10 @@
 *modfied foi modificado o projeto
 *staged area antes do commit
 *git status mostra o status do codigo
-* Comando git log 
+* Comando git log historico dos ultimos comits que foram feitos
 * Comando git add adiciona modificaçoes para area de staged
 * Comando git commit retorna para umodified
-* Comando git restore
+* Comando git restore remove uma modificação feita
 * Comando git diff mostra as linhas que foram modificadas
 * Comado git diff --staged
 * Comando git push envia para repositótio remoto
