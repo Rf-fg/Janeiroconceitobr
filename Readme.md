@@ -11,4 +11,6 @@
 * Comando git push envia para repositótio remoto
 * Comando git pull  envia do repositorio remoto para o local
 * Comando git fetch quais modificaçoes vao ser feitas no codigo antes de dar o pull Comando git push
-
+* Branches  ramificaçoes que pedem fazer  no codigo desenvolvimento paralelo
+* git ignore git checkout testing
+* 
